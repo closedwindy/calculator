@@ -6,7 +6,7 @@
 
 void CAL_GET(int num,int place)
 {
-   static int array[8];
+   static int array[16];
    array[place] = num;
 }
 
