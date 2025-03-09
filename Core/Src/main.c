@@ -21,7 +21,7 @@
 #include "i2c.h"
 #include "tim.h"
 #include "gpio.h"
-#include "astra_rocket.h"
+#include "/astra/astra_rocket.h"
 
 
 /* Private includes ----------------------------------------------------------*/
